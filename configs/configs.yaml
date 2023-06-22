@@ -1,0 +1,3 @@
+elasticsearch:
+  articles_index: articles
+ner_endpoint: http://ner:5000/extract

@@ -1,0 +1,26 @@
+accelerate == 0.17.1
+datasets ==2.10.1
+sentencepiece==0.1.97
+sentence-transformers==2.2.2
+transformers==4.27.2
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp39-cp39-linux_x86_64.whl
+tensorboardX
+hdbscan==0.8.29
+umap-learn
+spacy
+numpy==1.22.4
+bitsandbytes
+rouge-score==0.1.2
+nltk==3.8.1
+tqdm==4.65.0
+neo4j
+streamlit
+pandas==1.4.4
+typing
+pydantic
+fastapi
+requests
+openpyxl
+elasticsearch
+notebook==6.3.0
+ipywidgets
