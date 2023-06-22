@@ -1,9 +1,12 @@
 [submodule "elastdocker"]
 	path = elastdocker
 	url = https://github.com/sherifabdlnaby/elastdocker.git
+	branch = main
 [submodule "M-NER"]
 	path = M-NER
 	url = https://github.com/DinoHub/M-NER.git
+	branch = main
 [submodule "llm-EL"]
 	path = llm-EL
 	url = https://github.com/DinoHub/llm-EL.git
+	branch = main
