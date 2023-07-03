@@ -7,14 +7,14 @@ torch @ https://download.pytorch.org/whl/cu116/torch-1.13.1%2Bcu116-cp39-cp39-li
 tensorboardX
 hdbscan==0.8.29
 umap-learn
-spacy
+spacy==3.5.3
 numpy==1.22.4
 bitsandbytes
 rouge-score==0.1.2
 nltk==3.8.1
 tqdm==4.65.0
 neo4j
-streamlit
+streamlit==1.24.0
 pandas==1.4.4
 typing
 pydantic

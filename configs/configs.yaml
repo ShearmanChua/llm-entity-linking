@@ -1,3 +1,4 @@
 elasticsearch:
   articles_index: articles
 ner_endpoint: http://ner:5000/extract
+el_endpoint: http://entity_linking:5001/link

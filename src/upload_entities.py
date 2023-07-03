@@ -26,7 +26,7 @@ def upload_ner():
     for doc in tqdm(documents):
         
         if "entities.quantities" not in doc['_source'].keys():
-            print(doc['_source'].keys())
+            # print(doc['_source'].keys())
             articles_df.loc[-1] = [doc['_source']['title'], doc['_source']['content'], doc['_id']]  # adding a row
             articles_df.index = articles_df.index + 1  # shifting index
             articles_df = articles_df.sort_index()  # sorting by index
